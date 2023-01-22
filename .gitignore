@@ -1,0 +1,8 @@
+*.iml
+.gradle/
+.idea/
+build/
+out/
+target/
+*.txt
+*.csv
